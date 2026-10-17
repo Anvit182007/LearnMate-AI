@@ -1,0 +1,498 @@
+[
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "question": "What is the value of x in 2x = 10?",
+    "options": ["A. 2", "B. 5", "C. 8", "D. 10"],
+    "answer": "B"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "question": "Simplify: 3x + 2x.",
+    "options": ["A. 5x", "B. 6x", "C. 5x²", "D. 3x²"],
+    "answer": "A"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "question": "If y = 3 and z = y + 4, what is z?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "C"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "question": "What is the solution to x - 6 = 2?",
+    "options": ["A. 4", "B. 6", "C. 8", "D. 10"],
+    "answer": "C"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "question": "Solve for x: 3x + 5 = 20.",
+    "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+    "answer": "C"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "question": "Which of the following is a quadratic expression?",
+    "options": ["A. 2x + 3", "B. x² + 5x + 6", "C. 4/x", "D. √x"],
+    "answer": "B"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "question": "What is the area of a triangle with base 8 cm and height 5 cm?",
+    "options": ["A. 13 cm²", "B. 20 cm²", "C. 40 cm²", "D. 80 cm²"],
+    "answer": "B"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "question": "A rectangle has length 9 m and width 4 m. What is its perimeter?",
+    "options": ["A. 13 m", "B. 26 m", "C. 36 m", "D. 52 m"],
+    "answer": "B"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "question": "How many sides does a hexagon have?",
+    "options": ["A. 4", "B. 5", "C. 6", "D. 8"],
+    "answer": "C"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "question": "What is the sum of angles in a triangle?",
+    "options": ["A. 90°", "B. 180°", "C. 270°", "D. 360°"],
+    "answer": "B"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Statistics",
+    "difficulty": "hard",
+    "question": "Which measure of central tendency is most affected by extreme values (outliers)?",
+    "options": ["A. Mode", "B. Median", "C. Mean", "D. Range"],
+    "answer": "C"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Statistics",
+    "difficulty": "hard",
+    "question": "If the variance of a dataset is 25, what is the standard deviation?",
+    "options": ["A. 5", "B. 12.5", "C. 25", "D. 625"],
+    "answer": "A"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "hard",
+    "question": "What is the derivative of f(x) = x³?",
+    "options": ["A. x²", "B. 2x²", "C. 3x²", "D. 3x³"],
+    "answer": "C"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "hard",
+    "question": "What is the integral of 2x dx?",
+    "options": ["A. x", "B. x² + C", "C. 2x² + C", "D. x² / 2 + C"],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["A. Nucleus", "B. Mitochondria", "C. Ribosome", "D. Chloroplast"],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Hydrogen"],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "question": "How many chambers does the human heart have?",
+    "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "question": "What is the basic unit of life?",
+    "options": ["A. Atom", "B. Cell", "C. Tissue", "D. Organ"],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for water?",
+    "options": ["A. WA", "B. HO", "C. H₂O", "D. O₂H"],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "question": "An atom that gains electrons becomes a:",
+    "options": ["A. Proton", "B. Cation", "C. Anion", "D. Neutron"],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "question": "What is the SI unit of force?",
+    "options": ["A. Joule", "B. Watt", "C. Pascal", "D. Newton"],
+    "answer": "D"
+  },
+  {
+    "subject": "Science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "question": "Which of Newton's laws states that F = ma?",
+    "options": ["A. First", "B. Second", "C. Third", "D. Fourth"],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "topic": "Physics",
+    "difficulty": "hard",
+    "question": "An object travels 100 m in 5 s. What is its average speed?",
+    "options": ["A. 10 m/s", "B. 15 m/s", "C. 20 m/s", "D. 25 m/s"],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "topic": "Chemistry",
+    "difficulty": "hard",
+    "question": "What is the pH of a neutral solution at 25 °C?",
+    "options": ["A. 0", "B. 7", "C. 10", "D. 14"],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "topic": "Biology",
+    "difficulty": "hard",
+    "question": "Which molecule carries genetic information in living organisms?",
+    "options": ["A. ATP", "B. RNA only", "C. Protein", "D. DNA"],
+    "answer": "D"
+  },
+  {
+    "subject": "Science",
+    "topic": "Physics",
+    "difficulty": "hard",
+    "question": "What is the speed of light in a vacuum (approximately)?",
+    "options": ["A. 3 × 10⁶ m/s", "B. 3 × 10⁸ m/s", "C. 3 × 10¹⁰ m/s", "D. 3 × 10¹² m/s"],
+    "answer": "B"
+  },
+  {
+    "subject": "History",
+    "topic": "World War II",
+    "difficulty": "easy",
+    "question": "In which year did World War II end?",
+    "options": ["A. 1939", "B. 1942", "C. 1945", "D. 1950"],
+    "answer": "C"
+  },
+  {
+    "subject": "History",
+    "topic": "World War II",
+    "difficulty": "easy",
+    "question": "Which country did Germany invade to start World War II?",
+    "options": ["A. France", "B. Poland", "C. Russia", "D. England"],
+    "answer": "B"
+  },
+  {
+    "subject": "History",
+    "topic": "World War II",
+    "difficulty": "easy",
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "options": ["A. Mussolini", "B. Stalin", "C. Churchill", "D. Hitler"],
+    "answer": "D"
+  },
+  {
+    "subject": "History",
+    "topic": "World War II",
+    "difficulty": "easy",
+    "question": "Which event brought the United States into World War II?",
+    "options": ["A. D-Day invasion", "B. Attack on Pearl Harbor", "C. Fall of France", "D. Battle of Britain"],
+    "answer": "B"
+  },
+  {
+    "subject": "History",
+    "topic": "Ancient Civilizations",
+    "difficulty": "medium",
+    "question": "Which ancient civilization built the pyramids at Giza?",
+    "options": ["A. Romans", "B. Greeks", "C. Egyptians", "D. Mesopotamians"],
+    "answer": "C"
+  },
+  {
+    "subject": "History",
+    "topic": "Ancient Civilizations",
+    "difficulty": "medium",
+    "question": "The Roman Empire officially fell in which century?",
+    "options": ["A. 3rd century", "B. 4th century", "C. 5th century", "D. 6th century"],
+    "answer": "C"
+  },
+  {
+    "subject": "History",
+    "topic": "Modern History",
+    "difficulty": "medium",
+    "question": "In which year did the Berlin Wall fall?",
+    "options": ["A. 1985", "B. 1987", "C. 1989", "D. 1991"],
+    "answer": "C"
+  },
+  {
+    "subject": "History",
+    "topic": "Modern History",
+    "difficulty": "medium",
+    "question": "The Cold War was primarily a conflict between which two superpowers?",
+    "options": ["A. USA and China", "B. USA and USSR", "C. UK and Germany", "D. France and USA"],
+    "answer": "B"
+  },
+  {
+    "subject": "History",
+    "topic": "Ancient Civilizations",
+    "difficulty": "hard",
+    "question": "Which philosopher is known as the father of Western philosophy?",
+    "options": ["A. Aristotle", "B. Plato", "C. Socrates", "D. Pythagoras"],
+    "answer": "C"
+  },
+  {
+    "subject": "History",
+    "topic": "Modern History",
+    "difficulty": "hard",
+    "question": "The Treaty of Versailles (1919) formally ended which war?",
+    "options": ["A. World War II", "B. World War I", "C. Franco-Prussian War", "D. Crimean War"],
+    "answer": "B"
+  },
+  {
+    "subject": "History",
+    "topic": "World War II",
+    "difficulty": "hard",
+    "question": "Which major military operation was the Allied invasion of Normandy on 6 June 1944?",
+    "options": ["A. Operation Barbarossa", "B. Operation Market Garden", "C. Operation Overlord", "D. Operation Sea Lion"],
+    "answer": "C"
+  },
+  {
+    "subject": "History",
+    "topic": "Modern History",
+    "difficulty": "hard",
+    "question": "Which organisation was the predecessor to the United Nations?",
+    "options": ["A. The Triple Alliance", "B. The League of Nations", "C. NATO", "D. The Warsaw Pact"],
+    "answer": "B"
+  },
+  {
+    "subject": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Which of the following is a proper noun?",
+    "options": ["A. city", "B. river", "C. London", "D. mountain"],
+    "answer": "C"
+  },
+  {
+    "subject": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "What is the plural of 'child'?",
+    "options": ["A. childs", "B. childes", "C. children", "D. childrens"],
+    "answer": "C"
+  },
+  {
+    "subject": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Which word is an adjective in: 'The quick brown fox'?",
+    "options": ["A. The", "B. quick", "C. fox", "D. a"],
+    "answer": "B"
+  },
+  {
+    "subject": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Choose the correct sentence:",
+    "options": ["A. She don't know.", "B. She doesn't knows.", "C. She doesn't know.", "D. She do not knows."],
+    "answer": "C"
+  },
+  {
+    "subject": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "What does 'benevolent' mean?",
+    "options": ["A. Cruel", "B. Generous and kind", "C. Lazy", "D. Fearful"],
+    "answer": "B"
+  },
+  {
+    "subject": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the antonym of 'abundant':",
+    "options": ["A. Plentiful", "B. Sufficient", "C. Scarce", "D. Overflowing"],
+    "answer": "C"
+  },
+  {
+    "subject": "English",
+    "topic": "Literature",
+    "difficulty": "medium",
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["A. Charles Dickens", "B. William Shakespeare", "C. Jane Austen", "D. Mark Twain"],
+    "answer": "B"
+  },
+  {
+    "subject": "English",
+    "topic": "Literature",
+    "difficulty": "medium",
+    "question": "What literary device is used in 'The wind whispered through the trees'?",
+    "options": ["A. Simile", "B. Metaphor", "C. Personification", "D. Hyperbole"],
+    "answer": "C"
+  },
+  {
+    "subject": "English",
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "question": "Identify the grammatical error: 'Between you and I, this is wrong.'",
+    "options": ["A. 'Between' should be 'Amongst'", "B. 'I' should be 'me'", "C. 'wrong' should be 'incorrect'", "D. No error"],
+    "answer": "B"
+  },
+  {
+    "subject": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "What does 'ephemeral' mean?",
+    "options": ["A. Lasting forever", "B. Very large", "C. Lasting for a very short time", "D. Brightly coloured"],
+    "answer": "C"
+  },
+  {
+    "subject": "English",
+    "topic": "Literature",
+    "difficulty": "hard",
+    "question": "In George Orwell's '1984', what is the name of the totalitarian leader?",
+    "options": ["A. Napoleon", "B. Big Brother", "C. O'Brien", "D. Emmanuel Goldstein"],
+    "answer": "B"
+  },
+  {
+    "subject": "English",
+    "topic": "Literature",
+    "difficulty": "hard",
+    "question": "Which novel begins with 'It was the best of times, it was the worst of times'?",
+    "options": ["A. Oliver Twist", "B. Great Expectations", "C. A Tale of Two Cities", "D. Bleak House"],
+    "answer": "C"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Algorithms",
+    "difficulty": "easy",
+    "question": "Which sorting algorithm repeatedly swaps adjacent elements that are out of order?",
+    "options": ["A. Merge Sort", "B. Quick Sort", "C. Bubble Sort", "D. Heap Sort"],
+    "answer": "C"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Algorithms",
+    "difficulty": "easy",
+    "question": "What is the Big-O time complexity of accessing an element in an array by index?",
+    "options": ["A. O(n)", "B. O(log n)", "C. O(n²)", "D. O(1)"],
+    "answer": "D"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "options": ["A. HyperText Markup Language", "B. High-Tech Modern Language", "C. HyperText Modern Layout", "D. Home Tool Markup Language"],
+    "answer": "A"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "easy",
+    "question": "Which of the following is a Python data type?",
+    "options": ["A. int", "B. str", "C. list", "D. All of the above"],
+    "answer": "D"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Data Structures",
+    "difficulty": "medium",
+    "question": "Which data structure operates on a First-In-First-Out (FIFO) principle?",
+    "options": ["A. Stack", "B. Queue", "C. Tree", "D. Graph"],
+    "answer": "B"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Data Structures",
+    "difficulty": "medium",
+    "question": "What is the worst-case time complexity of binary search?",
+    "options": ["A. O(1)", "B. O(n)", "C. O(log n)", "D. O(n log n)"],
+    "answer": "C"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "What does IP stand for in networking?",
+    "options": ["A. Internal Protocol", "B. Internet Provider", "C. Internet Protocol", "D. Intranet Process"],
+    "answer": "C"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "Which protocol is used to send emails?",
+    "options": ["A. FTP", "B. HTTP", "C. SMTP", "D. SSH"],
+    "answer": "C"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Algorithms",
+    "difficulty": "hard",
+    "question": "What is the average-case time complexity of QuickSort?",
+    "options": ["A. O(n)", "B. O(n log n)", "C. O(n²)", "D. O(log n)"],
+    "answer": "B"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Data Structures",
+    "difficulty": "hard",
+    "question": "In a binary search tree, what traversal visits nodes in ascending order?",
+    "options": ["A. Pre-order", "B. Post-order", "C. In-order", "D. Level-order"],
+    "answer": "C"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "hard",
+    "question": "What does the term 'recursion' mean in programming?",
+    "options": ["A. A loop that runs forever", "B. A function that calls itself", "C. A type of data structure", "D. An error handling mechanism"],
+    "answer": "B"
+  },
+  {
+    "subject": "Computer Science",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "Which OSI layer is responsible for routing packets between networks?",
+    "options": ["A. Data Link Layer", "B. Transport Layer", "C. Network Layer", "D. Session Layer"],
+    "answer": "C"
+  }
+]
