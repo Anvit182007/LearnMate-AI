@@ -49,8 +49,8 @@ Project_IBM/
 │   ├── data/
 │   ├── .env.example
 │   ├── requirements.txt
-│   └── README.md
 ├── _test_progress.py
+├── README.md
 ├── _test_quiz.py
 ├── _test_study_planner.py
 ├── _test_study_planner_v2.py
