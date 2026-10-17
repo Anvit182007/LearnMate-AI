@@ -171,9 +171,8 @@ The project demonstrates how AI integration, data visualisation, and persistent 
 
 ## Project Links
 
-- **GitHub Repository:** [Add your repository URL here]
-- **Live Demo:** Add the deployed application URL here, once available.
-- **Project Screenshots:** See the project's screenshot documentation.
+- **GitHub Repository:** https://github.com/Anvit182007/LearnMate-AI
+- **Live Demo:** Coming Soon. 
 
 ---
 
